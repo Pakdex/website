@@ -122,10 +122,6 @@ const config = {
                 label: 'Twitter',
                 href: 'https://twitter.com/specularl2',
               },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
             ],
           },
           {
