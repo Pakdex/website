@@ -37,7 +37,7 @@ function HomepageHeader() {
           <div className={styles.sponsors}>
             <Link to="https://rdi.berkeley.edu"><img className={styles.sponsorImg} src="img/berkeley_rdi_logo.jpeg"/></Link> 
             <Link to="https://blog.ethereum.org/2023/02/14/layer-2-grants-roundup"><img className={styles.sponsorImg} src="img/ef-logo.svg"/></Link> 
-            <Link to="https://gnosis.io"><img height="22" style={{marginTop: "12px"}} src="https://raw.githubusercontent.com/gnosischain/media-kit/main/Logos/01%20Chain/Transparent/SVG/LogomarkChain-Horizontal-Moss.svg"/></Link> 
+            <Link to="https://gnosis.io"><img height="18" style={{marginTop: "10px"}} src="https://raw.githubusercontent.com/gnosischain/media-kit/main/Logos/01%20Chain/Transparent/SVG/LogomarkChain-Horizontal-Moss.svg"/></Link> 
           </div>
         </div>
       </div>
