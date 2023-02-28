@@ -9,6 +9,8 @@
   position: relative;
   overflow: hidden;
   background-image: url("/img/texture-16.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 .heroLogo {
     width: 270px;
