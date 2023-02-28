@@ -140,15 +140,16 @@ const config = {
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Specular.`,
       },
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: false,
+        respectPrefersColorScheme: true,
+      },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      colorMode: {
-        defaultMode: 'light',
-        disableSwitch: true,
-        respectPrefersColorScheme: true,
-      },
+
     }),
 };
 
