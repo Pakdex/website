@@ -12,5 +12,5 @@ Follow [@SpecularL2](https://twitter.com/specularl2)
 
 ### Discord
 
-[Join Discord](https://discord.com/invite/pPefR3tn)
+[Join Discord](https://discord.gg/Mq6Rw2BqdG)
 
